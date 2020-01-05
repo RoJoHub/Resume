@@ -1,19 +1,19 @@
 # 联系方式
 
-- 手机/微信：18067350553
-- Email：tiancailuohao@gmail.com
+- 手机/微信：180-6735-0553
+- Email：<tiancailuohao@gmail.com>
 
 ---
 
 # 个人信息
 
 - 罗浩/男/1994
-- 本科/杭州师范大学钱江学院/计算机科学与技术
+- 计算机科学与技术/本科/杭州师范大学钱江学院
 - 简历 URL: https://rojohub.github.io/Resume/
-- 工作年限：3 年
+- 工作年限：三年半
 - 技术博客：[http://blog.csdn.net/mandmg](http://blog.csdn.net/mandmg)
 - Github：[https://github.com/RoJoHub](https://github.com/RoJoHub)
-- 期望职位：移动平台开发工程师
+- 期望职位：iOS 开发工程师/大前端
 - 期望薪资：面议
 - 期望城市：杭州
 
@@ -21,11 +21,11 @@
 
 # 工作经历
 
-## 杭州登虹科技有限公司  移动平台开发工程师（ 2018 年 8 月 ~ 至今 ）
+## [杭州登虹科技有限公司](https://www.closeli.cn/)  移动平台开发工程师（ 2018 年 8 月 ~ 2019 年 6月 ）
 
-> 视频云平台及产品提供商，专注智能视频整体解决方案的提供。
+> DAU 约 40-80 万. 项目为安卓和苹果提供软件服务.主要功能是配合 IOT 设备(网络摄像头、网关路由、传感器),为用户提供实时视频、行为分析检测.
 
-### HybridSDK
+### **[登虹云视频](https://apps.apple.com/cn/app/%E7%99%BB%E8%99%B9%E4%BA%91%E8%A7%86%E9%A2%91/id1116554114)**、HybridSDK
 
 主导移动端 Native Hybrid 技术重构，运用 iOS 和 Android 的 JSWebBridge 技术研发 HybridSDK，在移动端与 Web 端交互场景下，实现业务协议隔离、接口标准化。最终在同类场景下，Web 端协议变更后，可通过 SDK 的能力使 APP 端研发成本大大降低，快速上线。
 最终 SDK 能力良好，在『登虹云视频』移动端项目上使用并成功上线。
@@ -65,7 +65,7 @@ PS:该库同时兼容 ReactNative。
 
 ## (香港 Bindo)边度科技网络有限公司 移动平台开发工程师（ 2017 年 8 月 ~ 2018 年 8 月 ）
 
-> 零售技术、电子商务方案提供商。
+> 平台支付渠道流水约 3000 亿.项目主要为海外企业用户提供点餐配送、房间预订等功能的软件解决方案(OEM).
 
 ### OEM 应用
 
@@ -151,14 +151,20 @@ Cordova、Ionic 生态下，第三方组件能力修复与开发
 - 前端框架：React/React Native/Mobx/Redux
 - 前端工具：Babel/Webpack/NPM/Yarn/ESLint
 - 数据库相关：Realm
-- 版本管理、文档：Svn/Git/Markdown/JSDOC
+-  SVN/Git/Markdown/JSDOC
 - 单元测试：Jest
 - 云和开放平台：微博开放平台/微信应用开发/微信支付大陆和香港/ 阿里支付大陆和香港
 - 语言:Objective-C，Swift，JavaScript，Java，Python,Go,Shell
 
+## 开源贡献
+
+[Pull Request](https://github.com/facebook/react-native/pull/23336)
+为 react-native 项目作了一点点小贡献.
+主要解决在某些情况下 Activity 没有正常传递给 react-native
+
 # 个人总结
 
-对移动端跨平台技术有良好把握，在登虹云视频(日活 30 万)、肯德基香港中有不错的实施。
+对移动端跨平台技术有良好把握，在登虹云视频(DAU 40~80)、肯德基香港中有不错的实施。
 
 从业至今开发 iOS 项目 8 个、Android 项目 2 个、ReactNative 项目 10 个、多个 Web 项目、Cordova 组件 3 个、1 个微信小程序等。
 
