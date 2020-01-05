@@ -158,9 +158,12 @@ Cordova、Ionic 生态下，第三方组件能力修复与开发
 
 ## 开源贡献
 
-[Pull Request](https://github.com/facebook/react-native/pull/23336)
-为 react-native 项目作了一点点小贡献.
-主要解决在某些情况下 Activity 没有正常传递给 react-native
+解决[facebook/react-native](https://github.com/facebook/react-native)在Android 平台下 Activity 为 Null,使模态框未正常弹出
+
+Request List:
+- [react native](https://github.com/facebook/react-native/pull/23336)
+- [react-native-website](https://github.com/facebook/react-native-website/pull/792)
+
 
 # 个人总结
 
