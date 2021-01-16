@@ -6,46 +6,51 @@
 ## 个人信息
 
 - 罗浩/男/1994
-- 计算机科学与技术/本科/杭州师范大学钱江学院
-- 工作年限：四年
-- 期望职位：无线开发工程师
+- **计算机科学与技术**/本科/杭州师范大学钱江学院
+- 工作年限：五年
+- 期望职位：**前端开发工程师**
 - 期望薪资：面议
-- 期望城市：杭州/宁波
-- 简历 URL: https://rojohub.github.io/Resume
-- 技术博客：[http://blog.csdn.net/mandmg](http://blog.csdn.net/mandmg)
 - Github：[https://github.com/RoJoHub](https://github.com/RoJoHub)
 
 ## 自我介绍
 
-- 四年软件开发经验，积累了较多的业务和开发经验.从技术选型,第三方工具选择,到应用的持续化构建和发布,独立完成 App 应用的开发.
-- 对移动端跨平台技术有良好把握，在**登虹云视频**中有不错的实践。
-- 从业至今开发 iOS 项目 8 个、Android 项目 2 个、ReactNative 项目 10 个.
-- 根据公司业务转型,参与到前端项目开发,主要涉及 React 应用、Cordova组件、微信小程序等.
+- 五年软件开发经验，积累了较多的业务和开发经验.从技术选型,第三方工具选择,到应用的持续化构建和发布,独立完成 App 应用的开发.
+- 对移动端跨平台技术有良好把握，在多个项目中有不错的实践。
+- 根据公司业务方向,负责移动端 APP、Web 等前端开发工作，根据产品需求，提出技术解决方案，制定前端研发实施规范；
 
 ## 开源贡献
 
-[facebook/react-native](https://github.com/facebook/react-native): 解决RN在 Android 平台下 Activity 为 Null,使模态框未正常弹出
-链接地址: [react native](https://github.com/facebook/react-native/pull/23336)、 [react-native-website](https://github.com/facebook/react-native-website/pull/792)
+[facebook/react-native](https://github.com/facebook/react-native): Android 平台下 Activity 的相关问题([PR23336](https://github.com/facebook/react-native/pull/23336)、 [PR792](https://github.com/facebook/react-native-website/pull/792))
+[react-native-device-info](https://github.com/react-native-device-info/react-native-device-info): iOS WebView 相关问题([PR1050](https://github.com/react-native-device-info/react-native-device-info/pull/1050))
+[react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker/): iOS 真机拍照相关问题([PR1050](https://github.com/react-native-image-picker/react-native-image-picker/pull/1056))
+[react-native-ping](https://github.com/RoJoHub/react-native-ping): 自建开源组件
+[react-native-smart-code](https://github.com/RoJoHub/react-native-smart-code): 自建开源组件
 
 ## 工作经历
 
+#### [诺亚财富](http://www.noahgroup.com/)  前端开发工程师（ 2020.4 ~ 至今 ）
+
+岗位职责:大前端方向
+根据公司业务方向:负责移动端 APP(React Native、Android、iOS),Web 等前端开发工作.
+根据产品需求:提出技术解决方案，制定前端研发实施规范.
+
 #### [杭州登虹科技有限公司](https://www.closeli.cn/)  高级无线开发工程师（ 2018.8 ~ 2019.6 ）
 
-项目名称:**[登虹云视频](https://apps.apple.com/cn/app/%E7%99%BB%E8%99%B9%E4%BA%91%E8%A7%86%E9%A2%91/id1116554114)**
+项目名称:**[登虹云视频 iOS 和 Android 版本](https://apps.apple.com/cn/app/%E7%99%BB%E8%99%B9%E4%BA%91%E8%A7%86%E9%A2%91/id1116554114)**
 
 - 项目介绍
   - DAU 约 40-80 万. 项目为安卓和苹果提供软件服务.主要功能是配合 IOT 设备(网络摄像头、网关路由、传感器),为用户提供实时视频、行为分析检测.
 - 项目职责
   - 提供 iOS、Android 的 Hybrid 整体解决方案. 负责多业务场景下 Hybrid 技术选型和落地,并为 App 端和前端团队成员提供 RN 和 Native 的技术支撑.
 - 项目收获
-  - Web平台(前端)的信息流整合. 借鉴 WebViewJavascriptBridge ,模块目标主要是内聚信息分发,与发送平台关联解耦.
+  - Web 平台(前端)的信息流整合. 借鉴 WebViewJavascriptBridge ,模块目标主要是内聚信息分发,与发送平台关联解耦.
   - 增加 react-native 方案. RN 在 iOS、Android 平台上的性能较之于 Web ,有大幅度的提高.
   - 实现 react-native 能力的热更新服务.
   - 能力容器化,将 web 和 react-native 能力封装为容器.
 
 #### [边度科技有限公司](https://bindopos.com/) 无线开发工程师（ 2017.8 ~ 2018.8 )
 
-项目名称:**Restaurant App (OEM 企业应用)**
+项目名称:**Restaurant App (React Native App)**
 
 - 项目介绍
   - 平台支付渠道流水约 3000 亿.项目主要为海外企业用户提供点餐配送、房间预订等功能的软件解决方案(OEM).
@@ -57,18 +62,9 @@
   - 封装 web,react-native 组件,一套代码,三端展示(iOS、Android、Web)
   - 使用 react-native 的 mobx、redux、redux-thunk、loger 的使用,了解其原理
   - 使用 babel、webpack、babel-preset 等项目配置
-  - 打造持续化构建机制,使用 jenkins、fastlane 等工具管理构建
+  -  打造持续化构建机制,使用 jenkins、fastlane 等工具管理构建
 
 #### [宁波至高点工业设计有限公司](http://www.hipoint.top/) iOS 开发工程师（ 2015.11 ~ 2017.8 )
-
-> 独立完成iOS软件的设计和开发工作,使用SceneKit、CoreBluetooth等,实现蓝牙管理智能硬件、3D 模型眼镜人脸试戴
-
-##### 项目与难点
-
-- 眼镜控 - ( iOS 下架、Android ): 3D 模型的人脸试戴
-- 眼镜控商家版 - ( iOS下架 ): 商品上架和订单管理系统
-- [HoMedics Massage](https://apps.apple.com/us/app/homedics-massage/id1132486352) - ( iOS ): 使用 iOS 设备连接按摩椅,发送蓝牙数据用以控制设备
-- [Ellia](https://apps.apple.com/us/app/ellia/id1143553125) - ( iOS ):音频歌曲管理系统、并使用 iOS 设备连接智能灯,发送蓝牙数据用以控制设备
 
 ## 技能清单
 
@@ -76,7 +72,7 @@
 - 前端工具: Babel/Webpack
 - App 开发: iOS/Android
 - App 开发语言: Objective-C/Java/Javascript/Swift
-- App 开发框架: ReactNative/Hybrid WebJSBridge/Ionic/Cordova
+- App 开发框架: ReactNative/Hybrid WebJSBridge/Taro
 - 依赖管理工具:Cocoapods/Carthage/Gradle/NPM/YARN
 - 版本管理和自动化部署工具: Git/Jenkins
 - 自动化构建框架/语言: Fastlane/Shell/Ruby
