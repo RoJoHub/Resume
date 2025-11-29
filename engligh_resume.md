@@ -1,111 +1,112 @@
-<p style="font-weight: bold;font-size: 20pt;margin-left:6pt">Luo Hao</p>
-<p align="right" >Ning Bo , ZheJiang , China 
-</br>
-(+86) 180-6735-0553
-</br>
-tiancailuohao@gmail.com
-</p>
+## Contact
 
-</br>
-<span style="font-weight: bold;">
-JOB OBJECTIVE  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Mobile Development Engineer</span>
-<div style="width: auto;
-    background-color: transparent;
-    text-align: left;
-    vertical-align: bottom;
-    border-top: 0.75pt none #000000;
-    border-right: 0.75pt none #000000;
-    border-bottom: 0.75pt solid #000000;
-    border-left: 0.75pt none #000000;
-    background-color: white;"></div>
+* **Phone / WeChat:** +86 180-6735-0553
+* **Email:** [396912848@qq.com](mailto:396912848@qq.com)
+* **Github:** [https://github.com/RoJoHub](https://github.com/RoJoHub)
 
-</br>
-<span style="font-weight: bold;">EDUCATION</span>
+---
 
-<div style="width: auto;
-    background-color: transparent;
-    text-align: left;
-    vertical-align: bottom;
-    border-top: 0.75pt none #000000;
-    border-right: 0.75pt none #000000;
-    border-bottom: 0.75pt solid #000000;
-    border-left: 0.75pt none #000000;
-    background-color: white;"></div>
+## Personal Information
 
-<p>Sep.2012-Jul.2016 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<span style="font-weight: bold">Hangzhou Normal University Qianjiang College</span>
-</p>
-<p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <span style="font-weight: bold;
-    font-style: normal;
-    text-decoration: underline"">Bachelor of Science in computer science & technology </span></p>
+* **Name:** Luo Hao
+* **Gender:** Male
+* **Birth Year:** 1994
+* **Education:** Bachelor’s Degree in Computer Science and Technology,
+  Hangzhou Normal University Qianjiang College
+* **Experience:** 10 years
+* **Target Roles:** Frontend Lead / Frontend Architect / Cross-Platform Technology Expert
+* **Expected Salary:** Negotiable
 
-<p>Jul.2019-present &nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Prepare for NEEP-The national entrance examination for postgraduate</p>
+---
 
-</br>
-<span style="font-weight: bold;">PROFESSIONAL EXPERIENCE</span>
-<div style="width: auto;
-    background-color: transparent;
-    text-align: left;
-    vertical-align: bottom;
-    border-top: 0.75pt none #000000;
-    border-right: 0.75pt none #000000;
-    border-bottom: 0.75pt solid #000000;
-    border-left: 0.75pt none #000000;
-    background-color: white;"></div>
-<p>8,2018-6,2019 
-<span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
-<span style="font-weight: bold;">Closeli,Inc  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Senior Mobile Development Engineer</span>
-</p>
+## Summary
 
-<div style="padding-left:120pt">
+> Senior software engineer with 10 years of experience, specialized in **Web, Mobile (iOS/Android), and Desktop (Electron)** cross-platform development.
+> Skilled at **frontend architecture design, cross-platform solutions, and team leadership**.
+> Proven ability to build frontend systems from scratch and lead teams to deliver complex projects.
+> Successfully led multi-end unified development, RN hot update, and AI-based image recognition projects to support **high concurrency business needs and rapid product iteration**.
 
+---
 
-- Working with React Native, Web,Objective-C, Java or other technologies as part of an Agile team developing mobile apps for iOS and Android
-- Design and develop communications protocol,whcih is a system of rule allow a variety of platform including ios, android,web to transmit information via uniform form.
-- Contributing to libraries and frameworks that will provide accuracy, consistency and benefit future development
-- Design and develop custom hot reloading for mobile application
-- Coaching other developers
-- 30 Day Active Users:500,000 to 700,000
+## Open Source Contributions
 
-</div>
+* [agora/electron-sdk](https://github.com/AgoraIO/Electron-SDK): Electron-based real-time audio & video SDK
+* [agora/react-native-sdk](https://github.com/AgoraIO-Community/react-native-agora): React Native audio & video SDK
+* [facebook/react-native](https://github.com/facebook/react-native): Contributed fixes to Android Activity-related issues ([PR23336](https://github.com/facebook/react-native/pull/23336), [PR792](https://github.com/facebook/react-native-website/pull/792))
+* [agora/flutter-sdk](https://github.com/AgoraIO/Agora-Flutter-SDK): Flutter real-time audio & video SDK
+* [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info): Fixed iOS WebView-related issues ([PR1050](https://github.com/react-native-device-info/react-native-device-info/pull/1050))
+* [react-native-image-picker](https://github.com/react-native-image-picker/react-native-image-picker/): Fixed iOS camera issue on physical devices ([PR1056](https://github.com/react-native-image-picker/react-native-image-picker/pull/1056))
+* [react-native-ping](https://github.com/RoJoHub/react-native-ping): Network diagnostics module for React Native, **500+ daily downloads**
+* [react-native-smart-code](https://github.com/RoJoHub/react-native-smart-code): Cross-platform barcode/QR code scanning solution, resolving iOS/Android differences
 
+---
 
-<p>
-8,2017-8,2018 
-<span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
-<span style="font-weight: bold;">Bindo Labs,Inc ,HongKong  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Mobile Development Engineer</span>
-</p>
+## Work Experience
 
-<div style="padding-left:120pt">
+### **[Zhejiang Simple New Energy Technology Co., Ltd.]()**
 
-- Working with React Native, Web,Objective-C, Java or other technologies as part of an Agile team developing mobile apps for iOS and Android
-- Provide native ability support for iOS,Android
-- Contributing to libraries and frameworks
-- Auto deployment scheme : Building and Packaging Application Projects
+**Frontend Lead / Team Lead** (Apr 2023 – Sep 2025)
 
-</div>
+> Led the company's frontend architecture and development, focused on the energy management platform and AI-based image recognition system. Team size: 5–10 engineers.
 
-<p>
-11,2016-8,2018 
-<span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
-<span style="font-weight: bold;">Work in Shen Zhen & Ning Bo  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Intern & Mobile Development Engineer</span>
-</p>
+* Designed and implemented **frontend architecture** for Web and desktop (Electron) applications
+* Led **mobile development (iOS & Android)** and established unified cross-platform technical solutions
+* Built a **training system for onboarding new engineers**, improving overall team skill levels
+* Planned and executed R\&D roadmap, assigning tasks and ensuring on-time delivery
+* Developed and maintained **lightweight backend services** using **Hono + MongoDB**
+* Integrated **TensorFlow** to design and deploy image recognition microservices
 
+---
 
-</br>
-<span style="font-weight: bold;">Community Contributors</span>
+### **[Agora.io](https://www.agora.io/en/)**
 
+**Cross-Platform Frontend / SDK Engineer** (Mar 2021 – Mar 2023)
 
-<div style="width: auto;
-    background-color: transparent;
-    text-align: left;
-    vertical-align: bottom;
-    border-top: 0.75pt none #000000;
-    border-right: 0.75pt none #000000;
-    border-bottom: 0.75pt solid #000000;
-    border-left: 0.75pt none #000000;
-    background-color: white;"></div>
+> Global leader in real-time audio and video technology with SDKs serving millions of developers.
 
-facebook/React Native
-facebook/react-native-website
-react-native-community/react-native-image-picker
-and so on...
+* Designed and built cross-platform rendering engines and capability SDKs for **React Native, Flutter, and Electron** across **iOS, Android, Mac, and Windows**
+* Built **cross-platform tooling** for performance optimization and continuous delivery
+* Contributed to **Linux Electron SDK** and Quick-Start example projects, improving developer experience
+* Maintained and enhanced React Native/Flutter/Electron SDKs, solving real-world developer problems
+
+---
+
+### **[Noah Group](http://www.noahgroup.com/)**
+
+**Senior Mobile Engineer** (Apr 2020 – Mar 2021)
+
+* Architected and developed **React Native cross-platform iOS/Android apps**
+* Built and optimized **cross-platform toolchains** to improve development efficiency
+* Delivered **RN hot update solutions** for multi-product unified upgrade
+* Researched and implemented new cross-platform technologies tailored to business needs
+
+---
+
+### **[Closeli](https://www.closeli.cn/)**
+
+**Senior Mobile Engineer** (Nov 2015 – Aug 2019)
+
+* Designed and developed **native and cross-platform mobile apps** using iOS, Android, Hybrid, and React Native technologies
+* Core project: [Closeli App](https://apps.apple.com/cn/app/%E7%99%BB%E8%99%B9%E4%BA%91%E8%A7%86%E9%A2%91/id1116554114)
+
+  * **DAU: 400K – 800K**, supporting real-time video streaming and behavior detection for smart cameras and sensors
+* **Built in-house RN hot update service**, supporting incremental and full updates across multiple product lines
+* Developed **OEM apps** with unified **React Native + Web** codebase for iOS, Android, and mobile web
+* Established **CI/CD pipelines** using Jenkins + Fastlane for automated build, release, and quality control
+
+---
+
+## Skills
+
+* **Core Frontend:** React / React Native / Flutter / Electron / Hybrid H5 / Taro
+* **Tooling & Engineering:** Webpack / Babel / Git / Jenkins / Fastlane
+* **Programming Languages:** TypeScript / JavaScript / Swift / Objective-C / Java / C++
+* **Backend & AI:** Node.js / Hono / TensorFlow / MongoDB
+* **Database & Services:** MongoDB / Hono
+
+---
+
+## Acknowledgment
+
+Thank you for taking the time to review my resume.
+I look forward to the opportunity to work together.
